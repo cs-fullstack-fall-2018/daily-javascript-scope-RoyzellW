@@ -20,3 +20,6 @@ C: ReferenceError: fname not defined
 D: fnamelname
 
 WRITE ANSWER HERE
+
+
+D.
